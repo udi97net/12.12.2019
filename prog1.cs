@@ -10,6 +10,8 @@ namespace _1212
     {
         static void Main(string[] args)
         {
+
+            // ============================ DEMO
             // comment
             /*
              * multi line comment
@@ -29,6 +31,8 @@ namespace _1212
             Console.Write("Your name is: ");
             Console.WriteLine(yourName);
 
+
+            // ====================== TARGIL 1
             Console.Write("Please enter first number: ");
             string xAsString = Console.ReadLine();
             // int is actually Int32
@@ -51,8 +55,9 @@ namespace _1212
                 // if false -- do this:
                 Console.WriteLine("Mithalek IM sheerit");
             }
-            
 
+
+            // ====================== TARGIL 2
             //Console.WriteLine(9/2.0);
 
             Console.Write("Please enter first number: ");
@@ -75,7 +80,7 @@ namespace _1212
             Console.Write("AVERAGE =");
             Console.WriteLine(avg);
 
-
+            // ====================== TARGIL 3
             int sum3 = 0;
             int x3 = 0;
 
